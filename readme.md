@@ -1,5 +1,5 @@
-####################
-DATA FILES INCLUDED:
+#################### \n
+DATA FILES INCLUDED: \n
 
 The data folder includes three csv files that are preprocessed in the following manner:
 1. data-5-box.csv: missing values are deleted to not influence the mean and standard deviation of the boxplots, values with <10 are transfered to 5
